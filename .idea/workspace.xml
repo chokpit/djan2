@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f15adc7-4580-40fb-aa65-b0612036d5d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/views-0.3-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/views-0.3-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/views-0.3-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/views-0.3-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/views-0.3-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/products/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/trydjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/trydjango/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/trydjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/trydjango/urls.py" afterDir="false" />
     </list>
